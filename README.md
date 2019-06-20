@@ -1,2 +1,2 @@
 # first-test
-only markdowns
+only markdown(s)
